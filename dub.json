@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"XXIV"
+	],
+	"copyright": "Copyright © 2022, XXIV",
+	"description": "Binding for rustls",
+	"homepage": "https://github.com/thechampagne/rustls-d",
+	"license": "Apache-2.0",
+	"name": "rustls"
+}
